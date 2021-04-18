@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Facultate\OC\SortingBenchmark\Debug\SortingBenchmark.exe</FullPath>
+      <FullPath>D:\src\repos\sorting-benchmark\Debug\SortingBenchmark.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

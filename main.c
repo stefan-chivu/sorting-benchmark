@@ -5,7 +5,7 @@
 
 #pragma warning(disable:4996)
 
-#define ITERATION_NO 50
+#define ITERATION_NO 25
 
 float shakersort(int* v, int n){
 	starton();

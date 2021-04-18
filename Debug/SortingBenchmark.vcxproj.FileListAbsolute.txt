@@ -1,1 +1,3 @@
 D:\Facultate\OC\SortingBenchmark\Debug\SortingBenchmark.exe
+D:\src\repos\sorting-benchmark\Debug\SortingBenchmark.exe
+D:\src\repos\sorting-benchmark\Debug\SortingBenchmark.pdb
