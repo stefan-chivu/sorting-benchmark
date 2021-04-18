@@ -1,0 +1,15 @@
+Element No.,Algorithm,Average Time
+10000,Recursive Quicksort,0.001200
+10000,Library qsort,0.005800
+10000,Heapsort,0.005200
+10000,Bubblesort,0.269200
+10000,Shakersort,0.225000
+10000,Insertionsort,0.062200
+10000,Selectionsort,0.123800
+20000,Recursive Quicksort,0.002800
+20000,Library qsort,0.011400
+20000,Heapsort,0.011400
+20000,Bubblesort,1.115000
+20000,Shakersort,0.924200
+20000,Insertionsort,0.251600
+20000,Selectionsort,0.491800
